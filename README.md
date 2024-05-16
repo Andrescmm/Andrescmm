@@ -2,7 +2,7 @@
 <h3 align="center">Developer from Peru 🇵🇪</h3>
 
 
-- 🔭 I’m currently working on **Inka Labs**
+- 🔭 I’m currently working on **Tecnologias Rootd**
 
 - 🌱 I’m currently learning **React**
 
