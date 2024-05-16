@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andres Cusirramos</h1>
 <h3 align="center">Developer from Peru 🇵🇪</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrescmm" alt="andrescmm" /></a> </p>
 
 - 🔭 I’m currently working on **Inka Labs**
 
